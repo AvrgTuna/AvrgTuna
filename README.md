@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @AvrgTuna
-- 👀 I’m interested in Minecraft creations
-- 🌱 I’m currently learning Computer Science
+- 👋 Hi, I’m quintin
+- 🌱 I’m currently a Computer Engineering Student
 - 📫 Email me at quintin.felarca@gmail.com
-- ⚒ I will only use this for copy & pasting Minecraft commands!
 
 <!---
 AvrgTuna/AvrgTuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
